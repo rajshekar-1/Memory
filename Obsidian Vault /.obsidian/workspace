@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "124b9841718c8fc8",
+        "id": "5c7af6b94d40d03b",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,12 +119,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "124b9841718c8fc8",
+  "active": "5c7af6b94d40d03b",
   "lastOpenFiles": [
-    "CheatSheet/MarkDownCheatSheet.md.md",
-    "TheOdinProject/CSS.md",
-    "TheOdinProject/TailwindCSS.md",
-    "TheOdinProject/JS.md",
-    "TheOdinProject/HTML.md"
+    "CheatSheet/MarkDown/CodeBlocks.md",
+    "CheatSheet/MarkDown/Fontstyles.md",
+    "CheatSheet/MarkDown/Headings.md",
+    "CheatSheet/MarkDown/links.md",
+    "CheatSheet/MarkDown/lists.md",
+    "CheatSheet/MarkDown/paragraphs.md",
+    "CheatSheet/MarkDown/MarkDownCheatSheet.md.md",
+    "CheatSheet/MarkDown/MarkDownCheatSheet.md 1.md",
+    "CheatSheet/MarkDown/CheatSheet.md.md",
+    "CheatSheet/MarkDown/MarkDown/CheatSheet.md 1.md"
   ]
 }
