@@ -1,4 +1,4 @@
-[[MarkDownCheatSheet.md]]
+[[MarkDownCheatSheet]]
 
 
 There's a break <br /> above me!

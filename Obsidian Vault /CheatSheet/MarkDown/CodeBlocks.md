@@ -1,4 +1,4 @@
-[[MarkDownCheatSheet.md]]
+[[MarkDownCheatSheet]]
 
 You can indicate a code block (which uses the <code> element) by indenting a line with four spaces or a tab.
 

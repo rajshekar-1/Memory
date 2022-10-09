@@ -1,4 +1,4 @@
-[[MarkDownCheatSheet.md]]
+[[MarkDownCheatSheet]]
 
 Ways to make Heading - no space between hastags gives tags for searching
 #heading

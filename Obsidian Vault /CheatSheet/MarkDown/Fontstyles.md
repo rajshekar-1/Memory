@@ -1,4 +1,4 @@
-[[MarkDownCheatSheet.md]]
+[[MarkDownCheatSheet]]
 
 *This text is in italics.*
 _And so is this text._

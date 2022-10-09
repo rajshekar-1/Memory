@@ -7,8 +7,12 @@
         "id": "5c7af6b94d40d03b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CheatSheet/MarkDown/Images.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,13 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CheatSheet/MarkDown/Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CheatSheet/MarkDown/Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,26 +116,37 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "CheatSheet/MarkDown/Images.md"
+              }
+            }
+          },
+          {
+            "id": "fadfc54814183c54",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5c7af6b94d40d03b",
+  "active": "eeb27d45932af130",
   "lastOpenFiles": [
     "CheatSheet/MarkDown/CodeBlocks.md",
     "CheatSheet/MarkDown/Fontstyles.md",
     "CheatSheet/MarkDown/Headings.md",
+    "CheatSheet/MarkDown/Images.md",
     "CheatSheet/MarkDown/links.md",
     "CheatSheet/MarkDown/lists.md",
+    "CheatSheet/MarkDown/MarkDownCheatSheet.md",
+    "CheatSheet/MarkDown/Table Of Contents.md",
     "CheatSheet/MarkDown/paragraphs.md",
-    "CheatSheet/MarkDown/MarkDownCheatSheet.md.md",
-    "CheatSheet/MarkDown/MarkDownCheatSheet.md 1.md",
-    "CheatSheet/MarkDown/CheatSheet.md.md",
-    "CheatSheet/MarkDown/MarkDown/CheatSheet.md 1.md"
+    "CheatSheet/Readme.md"
   ]
 }

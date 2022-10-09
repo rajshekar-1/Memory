@@ -1,4 +1,4 @@
-[[MarkDownCheatSheet.md]]
+[[MarkDownCheatSheet]]
 
 Stars, Plus or minus anything works for below
 * Item
