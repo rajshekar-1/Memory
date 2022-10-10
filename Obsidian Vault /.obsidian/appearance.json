@@ -1,1 +1,9 @@
-{}
+{
+  "baseFontSize": 17,
+  "cssTheme": "Atom",
+  "translucency": true,
+  "interfaceFontFamily": "JetBrains Mono,FiraCode Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font,FiraCode Nerd Font Mono",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "theme": "obsidian"
+}
