@@ -7,8 +7,12 @@
         "id": "9d4b4a5bee94da57",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TheOdinProject/JSFundamentals2.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53ac41037da64cbb",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TheOdinProject/JSFundamentals2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TheOdinProject/JSFundamentals2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TheOdinProject/JSFundamentals2.md"
+              }
             }
           },
           {
@@ -126,19 +135,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9d4b4a5bee94da57",
   "lastOpenFiles": [
+    "TheOdinProject/Fundamentals.md",
+    "TheOdinProject/JSFundamentals1.md",
+    "CheatSheet/MarkDown/CodeBlocks.md",
+    "CheatSheet/HtmlCSS/html.md",
     "Linux/Distros/EndeavourOS.md",
     "Linux/Distros/Archcraft.md",
-    "Linux/Distros/Arch/Fish.md",
-    "CheatSheet/Linux/Distros/Arch/Fish.md",
-    "CheatSheet/MarkDown/CodeBlocks.md",
     "Linux/Distros/Arch/pacman.md",
-    "Linux/Distros/Arch/yay.md",
-    "Linux/Shells/Bash.md",
-    "Linux/Shells/PowerShell.md",
-    "Linux/Shells/Zsh.md"
+    "Linux/Distros/Arch/Fish.md",
+    "CheatSheet/MarkDown/Headings.md",
+    "TheOdinProject/TailwindCSS.md"
   ]
 }
