@@ -1,3 +1,5 @@
+[[TheOdinProject/Foundations/JS/]]
+
 # Fundamentals 1
 
 - 3 ways to make variables

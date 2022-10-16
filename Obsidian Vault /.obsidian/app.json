@@ -2,6 +2,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "CheatSheet/MarkDown/assets",
-  "livePreview": false,
+  "livePreview": true,
   "readableLineLength": false
 }

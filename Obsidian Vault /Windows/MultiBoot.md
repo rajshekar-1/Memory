@@ -1,3 +1,5 @@
+[[Windows/]]
+
 # MultiBoot
 ## Refind - Bootloader
 

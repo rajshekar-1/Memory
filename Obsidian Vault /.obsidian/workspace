@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TheOdinProject/JSFundamentals2.md",
+            "file": "CheatSheet/MarkDown/CodeBlocks.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53ac41037da64cbb",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheOdinProject/JSFundamentals2.md",
+                "file": "CheatSheet/MarkDown/CodeBlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheOdinProject/JSFundamentals2.md",
+                "file": "CheatSheet/MarkDown/CodeBlocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheOdinProject/JSFundamentals2.md"
+                "file": "CheatSheet/MarkDown/CodeBlocks.md"
               }
             }
           },
@@ -140,15 +139,15 @@
   },
   "active": "9d4b4a5bee94da57",
   "lastOpenFiles": [
-    "TheOdinProject/Fundamentals.md",
-    "TheOdinProject/JSFundamentals1.md",
-    "CheatSheet/MarkDown/CodeBlocks.md",
-    "CheatSheet/HtmlCSS/html.md",
-    "Linux/Distros/EndeavourOS.md",
-    "Linux/Distros/Archcraft.md",
-    "Linux/Distros/Arch/pacman.md",
-    "Linux/Distros/Arch/Fish.md",
+    "CheatSheet/MarkDown/Fontstyles.md",
     "CheatSheet/MarkDown/Headings.md",
-    "TheOdinProject/TailwindCSS.md"
+    "CheatSheet/MarkDown/Images.md",
+    "CheatSheet/MarkDown/links.md",
+    "CheatSheet/MarkDown/lists.md",
+    "CheatSheet/MarkDown/MarkDownCheatSheet.md",
+    "CheatSheet/MarkDown/misc.md",
+    "CheatSheet/MarkDown/paragraphs.md",
+    "CheatSheet/MarkDown/Table Of Contents.md",
+    "CheatSheet/Readme.md"
   ]
 }
